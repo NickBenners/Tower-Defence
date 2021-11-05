@@ -1,0 +1,12 @@
+16,10
+
+g1,g1,g1,g1,g1,g1,g1,g1,g1,g1,g1,g1,g1,g1,g1,g1
+wa,wa,wa,wa,wa,wa,wa,g1,g1,g1,g1,g1,g1,g1,g1,g1
+pr,pr,pr,pr,pd,g1,wa,wa,g1,g1,g1,g1,g1,g1,g1,g1
+ps,pr,pu,t1,pd,g1,g1,wa,g1,g1,g1,g1,g1,g1,g1,g1
+g1,g1,pd,pl,pl,g1,g1,wa,wa,wa,g1,g1,g1,g1,g1,g1
+g1,g1,pd,t1,g1,g1,g3,t1,g1,wa,g1,g1,g1,g1,g1,g1
+g1,g1,pr,pr,pr,pr,pr,g3,g1,wa,g3,g3,g3,g1,pr,pe
+g1,g1,g1,t1,pd,pu,pd,t1,g1,wa,g1,g1,g1,g1,pu,g1
+g1,g1,g1,g1,pr,pu,pr,pr,pr,bb,pr,pr,pr,pr,pu,g1
+g1,g1,g1,g1,g1,g1,g1,g1,g1,wa,g1,g1,g1,g1,g1,g1

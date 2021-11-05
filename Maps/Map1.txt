@@ -1,0 +1,12 @@
+16,10
+
+wa,wa,wa,wa,wa,wa,wa,wa,wa,wa,wa,wa,wa,wa,wa,wa
+g1,g2,g1,g1,g1,pr,pr,pd,g1,g1,g1,g1,g2,g1,g1,g1
+g1,g1,g1,g2,t1,pu,g1,pd,g2,g1,g2,g1,g1,g1,g1,t1
+ps,pr,pd,g1,g1,pu,g1,pd,g1,t1,g1,g1,g1,pr,pr,pe
+g1,g1,pd,t1,g2,pu,g1,pd,g1,g1,g1,pr,pr,pu,g1,g1
+g1,g1,pr,pd,g1,pu,g1,pr,pr,pd,g3,pu,g1,g1,g1,g1
+g2,g1,g1,pr,pr,pu,g2,g1,g1,pd,g1,pu,g1,g1,g3,g1
+g1,g1,g1,g1,g1,g1,g1,pd,pl,pl,g1,pu,g1,g2,g1,g2
+g1,g1,g2,g1,g1,g1,g1,pd,g1,g1,g1,pu,g1,g1,g1,g1
+g1,g1,g1,g1,g1,g1,g1,pr,pr,pr,pr,pu,g1,g1,g3,g1
